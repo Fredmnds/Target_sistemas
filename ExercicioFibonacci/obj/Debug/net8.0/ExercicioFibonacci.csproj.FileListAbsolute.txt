@@ -1,0 +1,14 @@
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\bin\Debug\net8.0\ExercicioFibonacci.exe
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\bin\Debug\net8.0\ExercicioFibonacci.deps.json
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\bin\Debug\net8.0\ExercicioFibonacci.runtimeconfig.json
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\bin\Debug\net8.0\ExercicioFibonacci.dll
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\bin\Debug\net8.0\ExercicioFibonacci.pdb
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ExercicioFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ExercicioFibonacci.AssemblyInfoInputs.cache
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ExercicioFibonacci.AssemblyInfo.cs
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ExercicioFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ExercicioFibonacci.dll
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\refint\ExercicioFibonacci.dll
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ExercicioFibonacci.pdb
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ExercicioFibonacci.genruntimeconfig.cache
+C:\Users\frede\Desktop\Target_sistemas\ExercicioFibonacci\obj\Debug\net8.0\ref\ExercicioFibonacci.dll
